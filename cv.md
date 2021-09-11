@@ -12,6 +12,19 @@ complexes). 2015 – 2020.
 * PMClub.pro – PM101, IT Project Management - 2021
 * Coursera.org – Google IT Project Management - 2021
 * Coursera.org – Operations Management by University Of Pennsylvania - 2021
+## Code Example
+```
+String.prototype.toJadenCase = function () {
+    var jString = []; // blank array
+    var words = this.toLowerCase().split(' '); //split the string into words
+    
+    for (var i = 0; i < words.length; i++) {
+        word = words[i]; // each word is accessed separatly
+        jString.push(word[0].toUpperCase() + word.slice(1)); // each word operated as an array has its "0" index Capitalized
+    }
+    return jString.join(" ");
+}; 
+```
 ## Experience
 ### Line Coordinator, Philip Morris Izhora , June 2021 - October 2021
 #### __Responsibilities:__
