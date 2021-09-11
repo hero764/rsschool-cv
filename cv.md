@@ -1,3 +1,3 @@
-# Ivan Voloshin
-## Profile
-### Former Industrial Engineer/ Manufacturing team leader looking to secure on *Junior FrontEnd Developer* Position
+# **Ivan Voloshin**
+## **Profile**
+### Former Industrial Engineer/ Manufacturing team leader looking to secure on *__Junior FrontEnd Developer__* Position
