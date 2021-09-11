@@ -1,4 +1,7 @@
 # Ivan Voloshin
+## Contacts
+* mobile: +7-918-934-67-34
+* email: voloshinivan12@gmail.com
 ## Profile
  Former Industrial Engineer/ Manufacturing team leader looking to secure on *__Junior FrontEnd Developer__* Position
  ## Education
