@@ -106,3 +106,7 @@ the defect from the market was reduced to 0%;
 * Project Management
 * Agile
 * Problem-Solving
+
+## Languages
+* Russian - Native Speaker
+* English - Fluent - C1
