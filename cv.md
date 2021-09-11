@@ -11,7 +11,7 @@ complexes). 2015 – 2020.
 * Coursera.org – Operations Management by University Of Pennsylvania - 2021
 ## Experience
 ### Line Coordinator, Philip Morris Izhora , June 2021 - October 2021
-__Responsibilities:__
+#### __Responsibilities:__
 * Leading and coordinating work of 4
 production shifts (32 people);
 * Leading autonomous teams through
@@ -19,7 +19,7 @@ IWS/AM* methodology, couching.
 * Achieving production and methodology
 KPIs;
 * Back-up for higher leadership functions
-__Achievements:__
+#### __Achievements:__
 * After the Rapid Cleaning project has been
 implemented, the planned downtime has been
 reduced by 3,5%: Elimination of the tools
@@ -40,7 +40,7 @@ per/year savings per production line (8 lines on
 the shop floor).
 
 ### Industrial Engineer/ Project Coordinator, Philip Morris Izhora(contractor), September 2020 - June 2021
-__Responsibilities:__
+#### __Responsibilities:__
 * Work as part of project teams to improve
 work processes: gathering and analyzing
 data about production losses, developing
@@ -52,7 +52,7 @@ maintenance;
 * Search and analysis of sources of
 contamination and hard to reach places
 on production equipment;
-__Achievements:__
+#### __Achievements:__
 * After the Rapid Cleaning project has been
 implemented, the planned downtime has been
 reduced by 20%. Losses due to equipment defects
@@ -71,11 +71,11 @@ Maintenance steps and helping team to
 successfully pass the assessment;
 
 ### Engineer, Design Bureau Electroavtomatica, September 2018  -  June 2020 
-__Responsibilities:__
+#### __Responsibilities:__
 * Product design;
 * Developing of design documentation;
 * Project management;
-__Achievements:__
+#### __Achievements:__
 * In collaboration with the optical development
 department an equipment setup stand was
 developed, the setup time was reduced by 40%;
@@ -84,13 +84,13 @@ documentation of the office building. Elimination of
 losses for outsourcing - 100K rubles;
 
 ### Quality Department Trainee, BSH Hausgeräte, December 2016 - October 2017
-__Responsibilities:__
+#### __Responsibilities:__
 * Gathering and analysis of quality defects cases;
 * Development of databases on cases of quality
 defects;
 * Components testing;
 * Working in project teams;
-__Achievements:__
+#### __Achievements:__
 * An automated shift schedule has been developed;
 * A project was implemented to identify the root
 cause of the defect - the number of reviews about
