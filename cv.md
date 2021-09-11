@@ -95,3 +95,14 @@ defects;
 * A project was implemented to identify the root
 cause of the defect - the number of reviews about
 the defect from the market was reduced to 0%;
+
+## Skills
+* MS Office 
+* Solid Works
+* Auto Cad
+* Fusion 360
+* Lean Manufacturing Tools
+* IWS
+* Project Management
+* Agile
+* Problem-Solving
